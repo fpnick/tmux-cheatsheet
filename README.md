@@ -8,6 +8,7 @@ My most important tmux keys.
 # Moving
 - n next window
 - p previous window
+- l latest window (useful for switching back and forth between two windows)
 
 # Manage
 - c create window
